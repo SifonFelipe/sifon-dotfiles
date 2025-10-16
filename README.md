@@ -4,6 +4,10 @@ Personal configuration files for my development environment.
 
 Focused on speed, simplicity, and a minimal aesthetic.
 
+## Little Demo
+
+![Imgur Image](https://i.imgur.com/uTvXzAg.gif)
+
 ## Stack
 * Alacritty
 * Tmux
