@@ -12,7 +12,15 @@ set -x XLA_FLAGS "--xla_gpu_cuda_data_dir=/usr/lib/cuda"
 set -g fish_greeting ""
 set -Ux EDITOR nvim
 
+alias g="git"
 alias gs="git status"
+alias gc="git commit"
+alias gp="git push"
+alias gd="git diff"
+alias ghi="gh issue list"
+alias ghic="gh issue create"
+
 alias v="nvim"
+
 alias a-uno-compile="arduino-cli compile --fqbn arduino:avr:uno"
 alias a-uno-upload="arduino-cli upload -p /dev/ttyUSB0 --fqbn arduino:avr:uno"
