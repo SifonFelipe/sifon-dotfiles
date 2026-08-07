@@ -6,7 +6,7 @@ Focused on speed, simplicity, and a minimal aesthetic.
 
 ## Little Demo
 
-![Imgur Image](https://i.imgur.com/uTvXzAg.gif)
+[Screencast from 2026-08-07 01-48-26.webm](https://github.com/user-attachments/assets/0dbe5bb0-9810-4d04-afb0-3175320570bc)
 
 ## Stack
 * Alacritty
