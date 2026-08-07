@@ -12,7 +12,7 @@ Focused on speed, simplicity, and a minimal aesthetic.
 * Alacritty
 * Tmux
 * Fish
-* NeoVim (Not here, but [here](https://vim.fisadev.com/))
+* NeoVim (Not here, but [here](https://vim.fisadev.com/)) (I forked a [new one](https://github.com/SifonFelipe/fisa-vim-config) with more moderns linters :))
 
 ## Philosophy
 
