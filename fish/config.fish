@@ -24,3 +24,6 @@ alias v="nvim"
 
 alias a-uno-compile="arduino-cli compile --fqbn arduino:avr:uno"
 alias a-uno-upload="arduino-cli upload -p /dev/ttyUSB0 --fqbn arduino:avr:uno"
+
+# init zoxide
+zoxide init fish | source

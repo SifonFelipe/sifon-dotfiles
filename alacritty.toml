@@ -1,9 +1,37 @@
 [colors.primary]
-background = "#242424"
-foreground = "#cdd6f4"
+background = "#080b0a"
+foreground = "#b7c9b7"
+
+[colors.cursor]
+text = "#080b0a"
+cursor = "#39ff88"
+
+[colors.selection]
+text = "#080b0a"
+background = "#39ff88"
+
+[colors.normal]
+black   = "#101410"
+red     = "#ff4d4d"
+green   = "#39ff88"
+yellow  = "#d7d75f"
+blue    = "#4fa6ff"
+magenta = "#d75fff"
+cyan    = "#5fffff"
+white   = "#b7c9b7"
+
+[colors.bright]
+black   = "#53605a"
+red     = "#ff6b6b"
+green   = "#69ff9f"
+yellow  = "#ffff87"
+blue    = "#87afff"
+magenta = "#ff87ff"
+cyan    = "#87ffff"
+white   = "#e2f0e2"
 
 [font]
-size = 15.0
+size = 14.0
 
 [font.normal]
 family = "Hurmit Nerd Font Mono"
@@ -11,10 +39,10 @@ style = "Regular"
 
 [window]
 decorations = "full"
-opacity = 1
+opacity = 0.96
 
 [window.padding]
-x = 8
+x = 10
 y = 8
 
 [shell]
