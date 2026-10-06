@@ -6,7 +6,7 @@ Focused on speed, simplicity, and a minimal aesthetic.
 
 ## Little Demo
 
-[Screencast from 2026-08-07 01-48-26.webm](https://github.com/user-attachments/assets/0dbe5bb0-9810-4d04-afb0-3175320570bc)
+[configs.webm](https://github.com/user-attachments/assets/b1f9cc94-082c-444c-8a0d-6e511fced8dc)
 
 ## Stack
 * Alacritty
